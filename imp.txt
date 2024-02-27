@@ -1,0 +1,11 @@
+.\djangochat_env\Scripts\Activate
+cd djangochat
+python manage.py runserver 
+
+admin password
+username-admin
+password=yourriju@123
+
+djangochaT
+username:deagnish
+pass:lolriju!123
